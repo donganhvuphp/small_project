@@ -1,0 +1,12 @@
+#retype{
+    position: absolute;
+    right: 40px;
+    bottom: 125px;
+}
+#frm-register{
+    margin:20px auto;
+    box-shadow: 0 1px 6px 0 grey; 
+    padding: 30px;
+    border-radius: 20px;
+    position: relative;
+}
